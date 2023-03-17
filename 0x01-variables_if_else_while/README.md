@@ -15,3 +15,7 @@ What you should learn from this project:
 |[7. Smile in the mirror](https://github.com/Mohamed-Silaya/alx-low_level_programming/blob/main/0x01-variables_if_else_while/7-print_tebahpla.c)|Write a program that prints the lowercase alphabet in reverse, followed by a new line.|
 |[8. Hexadecimal](https://github.com/Mohamed-Silaya/alx-low_level_programming/blob/main/0x01-variables_if_else_while/8-print_base16.c)|Write a program that prints all the numbers of base 16 in lowercase, followed by a new line.|
 |[9. Patience, persistence and perspiration make an unbeatable combination for success](https://github.com/Mohamed-Silaya/alx-low_level_programming/blob/main/0x01-variables_if_else_while/9-print_comb.c)|Write a program that prints all possible combinations of single-digit numbers.|
+----
+### to make it easy this script to [push direct](https://github.com/Mohamed-Silaya/alx-low_level_programming/blob/main/0x01-variables_if_else_while/555-giit)
+# Author
+- Mohamed [Silaya](https://github.com/Mohamed-Silaya)
