@@ -5,7 +5,7 @@
 int main (void)
 { 
 	/* the diffrance between puts and printf , puts desplay only strings */ 
-	puts ("\"Programming is like building a multilingual puzzle\n");
+	puts ("\"Programming is like building a multilingual puzzle");
 	return (0);
 
 
