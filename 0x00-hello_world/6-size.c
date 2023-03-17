@@ -1,5 +1,9 @@
 #include<stdio.h>
 
+/**
+ * main - Entry poinr
+ * Return : always return 0
+ */
 int main(void)
 {
 	
