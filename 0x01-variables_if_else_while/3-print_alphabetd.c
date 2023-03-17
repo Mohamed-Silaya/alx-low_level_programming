@@ -17,7 +17,7 @@ int main(void)
 	for (upper ='A';upper='Z';upper++)
 	{
 		putchar(upper);
-		putchar("\n");
+		putchar('\n');
 	
 	}
 }
