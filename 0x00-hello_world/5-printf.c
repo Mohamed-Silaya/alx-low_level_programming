@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+/* main is the intry point for the programme */
 int main (void)
 { 
 	printf("with proper grammar, but the outcome is a piece of art,\n");
