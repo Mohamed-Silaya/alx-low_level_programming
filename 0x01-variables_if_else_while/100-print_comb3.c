@@ -22,9 +22,11 @@ int main(void)
             {
                 continue;
             }
-
+  		if (d != 89)
+		{
             putchar(',');
             putchar(' ');
+		}
         }
     }
 
