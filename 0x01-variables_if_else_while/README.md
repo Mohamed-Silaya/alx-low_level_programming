@@ -1,7 +1,7 @@
 # 0x01. C - Variables, if, else, while
 What you should learn from this project:
 
-- What is the n C coding style and how to check your code with betty-style
+- What is the n C coding style and how to check your code with [betty-style](https://github.com/holbertonschool/Betty)
 ----
 |Filename |Description|
 |-----|-----|
