@@ -15,6 +15,9 @@ What you should learn from this project:
 |[7. Smile in the mirror](https://github.com/Mohamed-Silaya/alx-low_level_programming/blob/main/0x01-variables_if_else_while/7-print_tebahpla.c)|Write a program that prints the lowercase alphabet in reverse, followed by a new line.|
 |[8. Hexadecimal](https://github.com/Mohamed-Silaya/alx-low_level_programming/blob/main/0x01-variables_if_else_while/8-print_base16.c)|Write a program that prints all the numbers of base 16 in lowercase, followed by a new line.|
 |[9. Patience, persistence and perspiration make an unbeatable combination for success](https://github.com/Mohamed-Silaya/alx-low_level_programming/blob/main/0x01-variables_if_else_while/9-print_comb.c)|Write a program that prints all possible combinations of single-digit numbers.|
+|[10. Inventing is a combination of brains and materials. The more brains you use, the less material you need](https://github.com/Mohamed-Silaya/alx-low_level_programming/blob/main/0x01-variables_if_else_while/100-print_comb3.c)|Write a program that prints all possible different combinations of two digits.|
+|[11. The success combination in business is: Do what you do better... and: do more of what you do..](https://github.com/Mohamed-Silaya/alx-low_level_programming/blob/main/0x01-variables_if_else_while/101-print_comb4.c)|Write a program that prints all possible different combinations of three digits.|
+|[12. Software is eating the World](https://github.com/Mohamed-Silaya/alx-low_level_programming/blob/main/0x01-variables_if_else_while/102-print_comb5.c)|Write a program that prints all possible combinations of two two-digit numbers.|
 ----
 ### to make it easy this script to [push direct](https://github.com/Mohamed-Silaya/alx-low_level_programming/blob/main/0x01-variables_if_else_while/555-giit)
 # Author
