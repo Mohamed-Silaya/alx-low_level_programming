@@ -24,11 +24,11 @@ for (i = 0; i <= 7; i++)
 
 	putchar(',');
 	putchar(' ');
-            }
-        }
-    }
+	}
+	}
+}
 
-    putchar('\n');
+	putchar('\n');
 
-    return (0);
+	return (0);
 }
