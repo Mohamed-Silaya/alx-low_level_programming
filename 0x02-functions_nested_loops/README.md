@@ -13,8 +13,7 @@
 |-----|-----|
 |[0-putchar.c](https://github.com/Mohamed-Silaya/alx-low_level_programming/blob/main/0x02-functions_nested_loops/0-putchar.c)|Write a function that prints the alphabet, in lowercase, followed by a new line.|
 |[1-alphabet.c](https://github.com/Mohamed-Silaya/alx-low_level_programming/blob/main/0x02-functions_nested_loops/1-alphabet.c)|is a function that prints the alphabet, in lowercase, followed by a new line.|
-|[2-print_alphabet_x10.c](https://github.com/Mohamed-Silaya/alx-low_level_programming/blob/main/0x02-functions_nested_loops/2-print_alphabet_x10.c)|Write a function that prints 10 times the alphabet, in lowercase,
-followed by a new line.|
+|[2-print_alphabet_x10.c](https://github.com/Mohamed-Silaya/alx-low_level_programming/blob/main/0x02-functions_nested_loops/2-print_alphabet_x10.c)|Write a function that prints 10 times the alphabet, in lowercase,followed by a new line.|
 |[3-islower.c](https://github.com/Mohamed-Silaya/alx-low_level_programming/blob/main/0x02-functions_nested_loops/3-islower.c)|Write a function that checks for lowercase character.|
 |[4-isalpha.c](https://github.com/Mohamed-Silaya/alx-low_level_programming/blob/main/0x02-functions_nested_loops/4-isalpha.c)|Write a function that checks for alphabetic character.|
 |[5-sign.c](https://github.com/Mohamed-Silaya/alx-low_level_programming/blob/main/0x02-functions_nested_loops/5-sign.c)|Write a function that prints the sign of a number.|
