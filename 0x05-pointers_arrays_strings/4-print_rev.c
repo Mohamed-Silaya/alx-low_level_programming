@@ -1,4 +1,4 @@
-#include "main"
+#include "main.h"
 void print_rev(char *s)
 {
 	int x,j;
