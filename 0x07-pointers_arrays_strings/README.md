@@ -22,3 +22,7 @@
 |[6. Chess is mental torture](https://github.com/Mohamed-Silaya/alx-low_level_programming/blob/main/0x07-pointers_arrays_strings/7-print_chessboard.c)|Write a function that prints the chessboard.|
 |[7. The line of life is a ragged diagonal between duty and desire](https://github.com/Mohamed-Silaya/alx-low_level_programming/blob/main/0x07-pointers_arrays_strings/8-print_diagsums.c)|Write a function that prints the sum of the two diagonals of a square matrix of integers.|
 |[8. Double pointer, double fun](https://github.com/Mohamed-Silaya/alx-low_level_programming/blob/main/0x07-pointers_arrays_strings/100-set_string.c)|Write a function that sets the value of a pointer to a char.|
+### to make it easy this script to [push direct](https://github.com/Mohamed-Silaya/alx-low_level_programming/blob/main/0x01-variables_if_else_while/555-giit)
+# Author
+- Mohamed [Silaya](https://github.com/Mohamed-Silaya)
+
