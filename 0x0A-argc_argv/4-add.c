@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
-#define UNUSED(x) (void)(x)
+
 /**
  * StringCheck - checks string
  * @s: string to check
@@ -21,6 +21,7 @@ int StringCheck(char *s)
 	}
 	return (1);
 }
+
 /**
  * main - main function
  * @argc: argumentc
