@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <ctype.h>
 #define UNUSED(x) (void)(x)
+
 /**
  * StringCheck - checks string
  * @s: string to check
