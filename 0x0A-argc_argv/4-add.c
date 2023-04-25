@@ -1,8 +1,8 @@
-#include "main.h"
+#include <main.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
-
+#define UNUSED(x) (void)(x)
 /**
  * StringCheck - checks string
  * @s: string to check
@@ -21,7 +21,6 @@ int StringCheck(char *s)
 	}
 	return (1);
 }
-
 /**
  * main - main function
  * @argc: argumentc
@@ -55,4 +54,5 @@ int main(int argc, char  *argv[])
 		printf("%d\n", 0);
 		return (1);
 	}
+
 }
