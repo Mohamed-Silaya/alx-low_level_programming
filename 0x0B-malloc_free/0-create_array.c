@@ -23,10 +23,10 @@ char *create_array(unsigned int size, char c)
 	char *	ar = (char *) malloc(size * sizeof(char));
 		for (i = 0; i < size; i++)
 		{
-			ar[i] = i++;
+			ar[i] = c;
 		}
 
-	return 1;
+	return ar;
 	}
 
 	else
