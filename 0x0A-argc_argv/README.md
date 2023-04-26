@@ -22,14 +22,14 @@
   - Your program should print a number, followed by a new line
   
   ---
-  [2. The best argument against democracy is a five-minute conversation with the average voter](https://github.com/Mohamed-Silaya/alx-low_level_programming/blob/main/0x0A-argc_argv/2-args.c)
+[2. The best argument against democracy is a five-minute conversation with the average voter](https://github.com/Mohamed-Silaya/alx-low_level_programming/blob/main/0x0A-argc_argv/2-args.c)
  - Write a program that prints all arguments it receives.
 
   - All arguments should be printed, including the first one
   - Only print one argument per line, ending with a new line
   
   ---
-  [3. Neither irony nor sarcasm is argument](https://github.com/Mohamed-Silaya/alx-low_level_programming/blob/main/0x0A-argc_argv/3-mul.c)
+[3. Neither irony nor sarcasm is argument](https://github.com/Mohamed-Silaya/alx-low_level_programming/blob/main/0x0A-argc_argv/3-mul.c)
   
 - Write a program that multiplies two numbers.
 
@@ -38,7 +38,7 @@
   - If the program does not receive two arguments, your program should print `Error`, followed by a new line, and return `1`
   
   ---
-  [4. To infinity and beyond](https://github.com/Mohamed-Silaya/alx-low_level_programming/blob/main/0x0A-argc_argv/4-add.c)
+[4. To infinity and beyond](https://github.com/Mohamed-Silaya/alx-low_level_programming/blob/main/0x0A-argc_argv/4-add.c)
   
 - Write a program that adds positive numbers.
 
