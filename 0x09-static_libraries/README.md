@@ -8,6 +8,7 @@
 -  In the C programming language, a static library is a compiled `object file` containing all symbols required by the main program to operate (functions, variables etc.), this happen in linking phase.
 
 3- Creating A Static "C" Library Using "ar" and "ranlib"
--  ar rc libutil.a main.o
+-  ar rc libmy.a main.h 
+   -  The 'c' flag tells ar to create the library if it doesn't already exist. The 'r' flag tells it to replace older object files in the library, with the new object files.
 
 
