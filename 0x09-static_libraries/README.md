@@ -30,8 +30,8 @@
  
 4- Create a script to automate the peocess:
   - we need first to genrate object files     -> gcc -c *.c
-  - to make static lib                        -> ar -rc libmy.a *.o
-  - we use 'ranlib' to re-generate the index  -> ranlib libmy.a
+  - to make static lib                        -> ar -rc liball.a *.o
+  - we use 'ranlib' to re-generate the index  -> ranlib liball.a
 
  
 
